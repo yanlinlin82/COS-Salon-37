@@ -1,0 +1,22 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal li {
+	font-family: "Microsoft Yahei", "Source Han Sans CN", "WenQuanYi Micro Hei";
+	text-transform: none;
+}
+.reveal h1.title {
+	font-size: 160%;
+}
+.reveal h2.author {
+	font-size: 100%;
+}
+.reveal h3.date {
+	font-size: 90%;
+}
+.reveal h1 {
+	font-size: 120%;
+}
+.reveal li {
+	font-size: 100%;
+}
+#acknowledge h1 {
+	text-align: left;
+}
