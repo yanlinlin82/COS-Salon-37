@@ -6,7 +6,7 @@
 
 ## 幻灯片下载
 
-下载地址：...
+下载地址： https://github.com/yanlinlin82/COS-Salon-37/releases/download/slides/2016-04-17_COS-salon-37_Liquid-biopsy.html
 
 ## 幻灯片编译
 
